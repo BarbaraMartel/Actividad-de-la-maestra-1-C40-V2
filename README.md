@@ -1,2 +1,2 @@
-# C40RV_SpeedRacer_TeacherActivity
-Teacher Activity
+# C40_Actividad de la maestra_Código boilerplate
+Actividad de la maestra
